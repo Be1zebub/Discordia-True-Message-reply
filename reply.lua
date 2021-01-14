@@ -1,3 +1,5 @@
+-- incredible-gmod.ru
+
 local discordia = require("discordia")
 local pathjoin = require("pathjoin")
 local fs = require("fs")
