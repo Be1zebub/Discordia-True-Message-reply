@@ -3,7 +3,7 @@
 local discordia = require("discordia")
 local pathjoin = require("pathjoin")
 local fs = require("fs")
-_G.type = require("./type")
+local type = require("./type")
 
 local insert, remove, concat, format = table.insert, table.remove, table.concat, string.format
 local splitPath = pathjoin.splitPath
