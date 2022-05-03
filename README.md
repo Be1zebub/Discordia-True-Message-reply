@@ -1,3 +1,6 @@
+# Deprecated!
+Use https://github.com/Be1zebub/Discordia-Expanded instead!
+
 # Discordia-True-Message-reply
 This **[Discordia](https://github.com/SinisterRectus/Discordia)** addon adds support for **[message_reference](https://discord.com/developers/docs/resources/channel#message-reference-object-message-reference-structure)** in **[TextChannel:send](https://github.com/SinisterRectus/Discordia/wiki/TextChannel#sendcontent)** (and in other methods related to sending messages)
 
